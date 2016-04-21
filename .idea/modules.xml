@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Add Two Numbers/Add Two Numbers.iml" filepath="$PROJECT_DIR$/Add Two Numbers/Add Two Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Counting Bits/Counting Bits.iml" filepath="$PROJECT_DIR$/Counting Bits/Counting Bits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Crazy Java 16 lesson/Crazy Java 16 lesson.iml" filepath="$PROJECT_DIR$/Crazy Java 16 lesson/Crazy Java 16 lesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Increasing Triplet Subsequence/Increasing Triplet Subsequence.iml" filepath="$PROJECT_DIR$/Increasing Triplet Subsequence/Increasing Triplet Subsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Integer Break/Integer Break.iml" filepath="$PROJECT_DIR$/Integer Break/Integer Break.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Longest Palindromic Substring/Longest Palindromic Substring.iml" filepath="$PROJECT_DIR$/Longest Palindromic Substring/Longest Palindromic Substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Longest Substring/Longest Substring.iml" filepath="$PROJECT_DIR$/Longest Substring/Longest Substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Median of Two Sorted Arrays/Median of Two Sorted Arrays.iml" filepath="$PROJECT_DIR$/Median of Two Sorted Arrays/Median of Two Sorted Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reconstruct Itinerary/Reconstruct Itinerary.iml" filepath="$PROJECT_DIR$/Reconstruct Itinerary/Reconstruct Itinerary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reverse Integer/Reverse Integer.iml" filepath="$PROJECT_DIR$/Reverse Integer/Reverse Integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Two Sum/Two Sum.iml" filepath="$PROJECT_DIR$/Two Sum/Two Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Verify Preorder Serialization of a Binary Tree/Verify Preorder Serialization of a Binary Tree.iml" filepath="$PROJECT_DIR$/Verify Preorder Serialization of a Binary Tree/Verify Preorder Serialization of a Binary Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZigZag Conversion/ZigZag Conversion.iml" filepath="$PROJECT_DIR$/ZigZag Conversion/ZigZag Conversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tecent/tecent.iml" filepath="$PROJECT_DIR$/tecent/tecent.iml" />
+    </modules>
+  </component>
+</project>
