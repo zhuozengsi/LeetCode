@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Add Two Numbers/Add Two Numbers.iml" filepath="$PROJECT_DIR$/Add Two Numbers/Add Two Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bulb Switcher/Bulb Switcher.iml" filepath="$PROJECT_DIR$/Bulb Switcher/Bulb Switcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coin Change/Coin Change.iml" filepath="$PROJECT_DIR$/Coin Change/Coin Change.iml" />
       <module fileurl="file://$PROJECT_DIR$/Counting Bits/Counting Bits.iml" filepath="$PROJECT_DIR$/Counting Bits/Counting Bits.iml" />
       <module fileurl="file://$PROJECT_DIR$/Crazy Java 16 lesson/Crazy Java 16 lesson.iml" filepath="$PROJECT_DIR$/Crazy Java 16 lesson/Crazy Java 16 lesson.iml" />
       <module fileurl="file://$PROJECT_DIR$/Increasing Triplet Subsequence/Increasing Triplet Subsequence.iml" filepath="$PROJECT_DIR$/Increasing Triplet Subsequence/Increasing Triplet Subsequence.iml" />
@@ -10,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Longest Palindromic Substring/Longest Palindromic Substring.iml" filepath="$PROJECT_DIR$/Longest Palindromic Substring/Longest Palindromic Substring.iml" />
       <module fileurl="file://$PROJECT_DIR$/Longest Substring/Longest Substring.iml" filepath="$PROJECT_DIR$/Longest Substring/Longest Substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maximum Product of Word Lengths/Maximum Product of Word Lengths.iml" filepath="$PROJECT_DIR$/Maximum Product of Word Lengths/Maximum Product of Word Lengths.iml" />
       <module fileurl="file://$PROJECT_DIR$/Median of Two Sorted Arrays/Median of Two Sorted Arrays.iml" filepath="$PROJECT_DIR$/Median of Two Sorted Arrays/Median of Two Sorted Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Odd Even Linked List/Odd Even Linked List.iml" filepath="$PROJECT_DIR$/Odd Even Linked List/Odd Even Linked List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Reconstruct Itinerary/Reconstruct Itinerary.iml" filepath="$PROJECT_DIR$/Reconstruct Itinerary/Reconstruct Itinerary.iml" />
