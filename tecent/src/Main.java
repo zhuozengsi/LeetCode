@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.TreeMap;
 
 /**
  * Created by zhuozengsi on 4/2/16.
@@ -11,6 +12,8 @@ public class Main {
         arr[1] = 4;
         System.out.println(Arrays.toString(arr));
         System.out.println("Sum: " + sum(arr));
+
+        TreeMap<Integer, Integer> map = new TreeMap<>();
 
     }
 

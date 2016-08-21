@@ -1,0 +1,12 @@
+217. Contains Duplicate
+Total Accepted: 109524
+Total Submissions: 258340
+Difficulty: Easy
+Given an array of integers, find if the array contains any duplicates.
+Your function should return true if any value appears at least twice in the array,
+and it should return false if every element is distinct.
+
+
+
+Tags Array Hash Table
+Similar Problems (E) Contains Duplicate II (M) Contains Duplicate III

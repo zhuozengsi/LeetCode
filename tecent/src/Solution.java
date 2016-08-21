@@ -69,47 +69,32 @@ import java.util.Scanner;
 //}
 
 
-class Node{
-    int data;
-    Node next;
-}
-
 public class Solution{
+
     public static void main(String[] args){
-
-        int[] arr = new int[]{3,1,5,4,6,6,2,3,5,9};
-
-    }
-
-    public  int[] fineMMin(int arr[], int M){
-
-        int[] result = new int[M];
-        int length = arr.length;
-        for (int i = 0; i < M; i ++){
-            result[i] = arr[i];
-        }
-
-
-        for(int j = M; j < length; j++){
-            int[] max = findMax(result);
-            if(max[0] > arr[j]){
-                result[max[1]] = arr[j];
-            }
-        }
-
-        return result;
+        int n = 24;
+        System.out.println(changeToOne(n));
 
     }
 
-    private int[] findMax(int arr[]){
-        int[] max = new int[]{arr[0],0};
-        for (int i = 1; i < arr.length; i ++){
-            if (max[0] < arr[i]) {
-                max[0] = arr[i];
-                max[1] = i;
-            }
-        }
-        return max;
-    }
+    private static int changeToOne(int n){
 
+        int count = 0;
+        while (n != 1){
+
+            if((n & 0b111) == 0b111){
+                //n 的二进制表示末端最少有3个1
+                n = n + 1;
+            }else if ((n & 0b1) == 0b1) {
+                // n 的二进制表示末位是1
+                n = n -1;
+            }else
+                // n 的二进制表示末位是0
+                n = n >> 1;
+            count ++;
+
+        }
+
+        return count;
+    }
 }
